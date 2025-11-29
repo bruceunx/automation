@@ -120,4 +120,6 @@
 
 ## TODO
 
+- [ ] improve Readme
+- [ ] add release CI for windows
 - [ ] refactor code about check account active or not
