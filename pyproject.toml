@@ -1,7 +1,7 @@
 [project]
 name = "automation-py"
 version = "0.1.0"
-description = "Add your description here"
+description = "仿蚁小二的自动化工具"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
