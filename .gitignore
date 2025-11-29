@@ -1,0 +1,15 @@
+**/__pycache__
+
+**/*.py[cod]
+.mypy
+
+cache/
+
+cache*/
+
+**/*.exe
+
+claude.py
+temp.py
+
+package/
