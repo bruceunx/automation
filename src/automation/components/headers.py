@@ -62,7 +62,7 @@ class HeaderBar(QWidget):
         content_frame.setObjectName("content_frame")
         self.layout().addWidget(content_frame)
 
-        title_label = QLabel(" 引流平台")
+        title_label = QLabel(" 蚁小五")
         title_label.setObjectName("title_label")
         content_frame.layout().addWidget(title_label)
 
